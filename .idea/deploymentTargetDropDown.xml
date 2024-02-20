@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="CatFullScreenKtTest">
+        <State />
+      </entry>
+      <entry key="CatsScreenKtTest">
+        <State />
+      </entry>
+      <entry key="CatsScreenKtTestActivity">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="loadingBarTest()">
+        <State />
+      </entry>
+      <entry key="testCatScreen()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>

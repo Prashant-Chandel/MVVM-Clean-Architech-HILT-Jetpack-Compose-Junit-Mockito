@@ -1,0 +1,68 @@
+# 2024-02-19T15:24:40.298Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "CatsScreenKtTestActivity"
+    test_package: "com.clean.mvvm.view"
+    test_method: "loadingBarTest"
+    start_time {
+      seconds: 1708356271
+      nanos: 950000000
+    }
+    end_time {
+      seconds: 1708356278
+      nanos: 73000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\PR20406131\\Music\\rain 3.0.1\\MVVM-Clean_Architect-Example-with-hilt\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_API_TiramisuPrivacySandbox(AVD) - 13\\logcat-com.clean.mvvm.view.CatsScreenKtTestActivity-loadingBarTest.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\PR20406131\\Music\\rain 3.0.1\\MVVM-Clean_Architect-Example-with-hilt\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_API_TiramisuPrivacySandbox(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\PR20406131\\Music\\rain 3.0.1\\MVVM-Clean_Architect-Example-with-hilt\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_API_TiramisuPrivacySandbox(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\PR20406131\\Music\\rain 3.0.1\\MVVM-Clean_Architect-Example-with-hilt\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_API_TiramisuPrivacySandbox(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\PR20406131\\Music\\rain 3.0.1\\MVVM-Clean_Architect-Example-with-hilt\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_API_TiramisuPrivacySandbox(AVD) - 13\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

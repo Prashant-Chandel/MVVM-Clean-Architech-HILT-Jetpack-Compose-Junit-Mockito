@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clean.mvvm.domain.mappers.MapperExtensionFunctionKtTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-02-19T12:30:07" hostname="APL-5CD204842N" time="0.067">
+  <properties/>
+  <testcase name="mapCatsDataItems" classname="com.clean.mvvm.domain.mappers.MapperExtensionFunctionKtTest" time="0.056"/>
+  <testcase name="mapSuccessData" classname="com.clean.mvvm.domain.mappers.MapperExtensionFunctionKtTest" time="0.004"/>
+  <testcase name="mapFavCatsDataItems" classname="com.clean.mvvm.domain.mappers.MapperExtensionFunctionKtTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

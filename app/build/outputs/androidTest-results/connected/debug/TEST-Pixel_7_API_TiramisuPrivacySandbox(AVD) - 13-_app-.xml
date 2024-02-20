@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.clean.mvvm.view.CatsScreenKtTestActivity" tests="1" failures="0" errors="0" skipped="0" time="8.236" timestamp="2024-02-19T15:24:40" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_7_API_TiramisuPrivacySandbox(AVD) - 13" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="loadingBarTest" classname="com.clean.mvvm.view.CatsScreenKtTestActivity" time="6.16" />
+</testsuite>

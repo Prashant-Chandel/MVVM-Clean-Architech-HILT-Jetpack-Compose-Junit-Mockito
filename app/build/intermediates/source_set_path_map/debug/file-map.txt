@@ -1,0 +1,76 @@
+com.clean.mvvm.app-ui-tooling-preview-release-0 C:\Users\PR20406131\.gradle\caches\transforms-3\069bf888dcb629033e7aa8c116031093\transformed\ui-tooling-preview-release\res
+com.clean.mvvm.app-material3-release-1 C:\Users\PR20406131\.gradle\caches\transforms-3\07a7918bfdf63e70124a3d6c8b25a6aa\transformed\material3-release\res
+com.clean.mvvm.app-lottie-4.2.2-2 C:\Users\PR20406131\.gradle\caches\transforms-3\0f2dc908ea6d4014f1ad3b18722f065d\transformed\lottie-4.2.2\res
+com.clean.mvvm.app-encrypted-preferences-1.3.0-3 C:\Users\PR20406131\.gradle\caches\transforms-3\17cf846a873d8c9109afdd587c23ff1c\transformed\encrypted-preferences-1.3.0\res
+com.clean.mvvm.app-navigation-common-ktx-2.7.7-4 C:\Users\PR20406131\.gradle\caches\transforms-3\1b165c8dc1afada17a9b9bff041cbdb5\transformed\navigation-common-ktx-2.7.7\res
+com.clean.mvvm.app-drawerlayout-1.1.1-5 C:\Users\PR20406131\.gradle\caches\transforms-3\242d27f26130d8260474b21a25ea498d\transformed\drawerlayout-1.1.1\res
+com.clean.mvvm.app-runtime-release-6 C:\Users\PR20406131\.gradle\caches\transforms-3\30570dec6dcadc91d3e337cfafac039a\transformed\runtime-release\res
+com.clean.mvvm.app-appcompat-1.6.1-7 C:\Users\PR20406131\.gradle\caches\transforms-3\335a7e3a5b484ac9670ee6d9f2ceec4e\transformed\appcompat-1.6.1\res
+com.clean.mvvm.app-room-runtime-2.6.1-8 C:\Users\PR20406131\.gradle\caches\transforms-3\3384623eca31f9375d10029886b91455\transformed\room-runtime-2.6.1\res
+com.clean.mvvm.app-glide-4.12.0-9 C:\Users\PR20406131\.gradle\caches\transforms-3\37cca1d01c2822545b23da496b165255\transformed\glide-4.12.0\res
+com.clean.mvvm.app-core-ktx-1.12.0-10 C:\Users\PR20406131\.gradle\caches\transforms-3\3c7776c7dca4ffd4fa5882c091643f7e\transformed\core-ktx-1.12.0\res
+com.clean.mvvm.app-constraintlayout-2.0.1-11 C:\Users\PR20406131\.gradle\caches\transforms-3\422d972286b273bbc52534818720db9b\transformed\constraintlayout-2.0.1\res
+com.clean.mvvm.app-material-ripple-release-12 C:\Users\PR20406131\.gradle\caches\transforms-3\453022ce39bfd65b6f2831aaca4725ab\transformed\material-ripple-release\res
+com.clean.mvvm.app-lifecycle-viewmodel-ktx-2.7.0-13 C:\Users\PR20406131\.gradle\caches\transforms-3\476bea580e4599bb4ad9bcd5620546a0\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.clean.mvvm.app-emoji2-views-helper-1.3.0-14 C:\Users\PR20406131\.gradle\caches\transforms-3\47c7a0f6aab102c2358a7dc98484176b\transformed\emoji2-views-helper-1.3.0\res
+com.clean.mvvm.app-profileinstaller-1.3.0-15 C:\Users\PR20406131\.gradle\caches\transforms-3\4bd7068edf2634daebda08db2b48fb5a\transformed\profileinstaller-1.3.0\res
+com.clean.mvvm.app-material-1.11.0-16 C:\Users\PR20406131\.gradle\caches\transforms-3\4cc65ffff7fb2e6ef8d2635c454859a1\transformed\material-1.11.0\res
+com.clean.mvvm.app-ui-test-manifest-1.6.1-17 C:\Users\PR20406131\.gradle\caches\transforms-3\4eadd3922d55f14ffd25c30237209397\transformed\ui-test-manifest-1.6.1\res
+com.clean.mvvm.app-animation-core-release-18 C:\Users\PR20406131\.gradle\caches\transforms-3\555d164e4d8da7abe34a6e772222aabd\transformed\animation-core-release\res
+com.clean.mvvm.app-emoji2-1.3.0-19 C:\Users\PR20406131\.gradle\caches\transforms-3\564aabf5b1cfec38c836ac3ea1303871\transformed\emoji2-1.3.0\res
+com.clean.mvvm.app-runtime-saveable-release-20 C:\Users\PR20406131\.gradle\caches\transforms-3\5891c42ee6abea29dd5e52028fc729a0\transformed\runtime-saveable-release\res
+com.clean.mvvm.app-activity-compose-1.8.2-21 C:\Users\PR20406131\.gradle\caches\transforms-3\5b17787ea89b9c25510cc0ff8433f759\transformed\activity-compose-1.8.2\res
+com.clean.mvvm.app-ui-util-release-22 C:\Users\PR20406131\.gradle\caches\transforms-3\5ef46ef7357c6fd3111b40bf5bb045f0\transformed\ui-util-release\res
+com.clean.mvvm.app-core-1.5.0-23 C:\Users\PR20406131\.gradle\caches\transforms-3\649a6f7fc0b59178bb65ce7ece67efcd\transformed\core-1.5.0\res
+com.clean.mvvm.app-ui-text-release-24 C:\Users\PR20406131\.gradle\caches\transforms-3\6b09de65433c9f3863420fa034cc8a0a\transformed\ui-text-release\res
+com.clean.mvvm.app-lifecycle-livedata-core-2.7.0-25 C:\Users\PR20406131\.gradle\caches\transforms-3\6dd3eefbd6589839f93372b5416588ec\transformed\lifecycle-livedata-core-2.7.0\res
+com.clean.mvvm.app-coordinatorlayout-1.1.0-26 C:\Users\PR20406131\.gradle\caches\transforms-3\70143506edb8c54384658d104817ad11\transformed\coordinatorlayout-1.1.0\res
+com.clean.mvvm.app-lifecycle-viewmodel-compose-2.7.0-27 C:\Users\PR20406131\.gradle\caches\transforms-3\71bae86c59620e8abf592b92de0aee98\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.clean.mvvm.app-ui-release-28 C:\Users\PR20406131\.gradle\caches\transforms-3\7c458fee8a6f8fbec812e6aa16ec6fae\transformed\ui-release\res
+com.clean.mvvm.app-lifecycle-livedata-2.7.0-29 C:\Users\PR20406131\.gradle\caches\transforms-3\7fb8444e9a24f28732afef7f022f1527\transformed\lifecycle-livedata-2.7.0\res
+com.clean.mvvm.app-ui-unit-release-30 C:\Users\PR20406131\.gradle\caches\transforms-3\820626b8b2d51d03443ab39ad29a4dce\transformed\ui-unit-release\res
+com.clean.mvvm.app-sqlite-2.4.0-31 C:\Users\PR20406131\.gradle\caches\transforms-3\827938bbc568acda33f2deb1b1831a03\transformed\sqlite-2.4.0\res
+com.clean.mvvm.app-sqlite-framework-2.4.0-32 C:\Users\PR20406131\.gradle\caches\transforms-3\88364134cd3f0afcfd55527fae57c6af\transformed\sqlite-framework-2.4.0\res
+com.clean.mvvm.app-cardview-1.0.0-33 C:\Users\PR20406131\.gradle\caches\transforms-3\8be96ed0eed6dfa6eae2e7414df8f506\transformed\cardview-1.0.0\res
+com.clean.mvvm.app-annotation-experimental-1.4.0-34 C:\Users\PR20406131\.gradle\caches\transforms-3\8d4e8180e953c22bb6b7b4be9258d895\transformed\annotation-experimental-1.4.0\res
+com.clean.mvvm.app-core-runtime-2.2.0-35 C:\Users\PR20406131\.gradle\caches\transforms-3\8eee82fcf9037e617b106abff98f7fce\transformed\core-runtime-2.2.0\res
+com.clean.mvvm.app-appcompat-resources-1.6.1-36 C:\Users\PR20406131\.gradle\caches\transforms-3\90870ca1d8bf8e57da9912a95a2617db\transformed\appcompat-resources-1.6.1\res
+com.clean.mvvm.app-activity-ktx-1.8.2-37 C:\Users\PR20406131\.gradle\caches\transforms-3\92f04dba0f3b455b57013cb65df1855d\transformed\activity-ktx-1.8.2\res
+com.clean.mvvm.app-navigation-runtime-2.7.7-38 C:\Users\PR20406131\.gradle\caches\transforms-3\96516258f8a6cfc32c3affc9ca4ab3ef\transformed\navigation-runtime-2.7.7\res
+com.clean.mvvm.app-core-1.12.0-39 C:\Users\PR20406131\.gradle\caches\transforms-3\975a6169a4aa950455aaad474e41344a\transformed\core-1.12.0\res
+com.clean.mvvm.app-customview-poolingcontainer-1.0.0-40 C:\Users\PR20406131\.gradle\caches\transforms-3\977e6395d8961ca26da20cbec01ff6e9\transformed\customview-poolingcontainer-1.0.0\res
+com.clean.mvvm.app-lifecycle-livedata-core-ktx-2.7.0-41 C:\Users\PR20406131\.gradle\caches\transforms-3\97ad0e9f58a586fccf709fd16e277163\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.clean.mvvm.app-startup-runtime-1.1.1-42 C:\Users\PR20406131\.gradle\caches\transforms-3\9808b3902fa9df0245461f9b713696fa\transformed\startup-runtime-1.1.1\res
+com.clean.mvvm.app-savedstate-ktx-1.2.1-43 C:\Users\PR20406131\.gradle\caches\transforms-3\9915005347360dc2efb99c78e035edf8\transformed\savedstate-ktx-1.2.1\res
+com.clean.mvvm.app-navigation-common-2.7.7-44 C:\Users\PR20406131\.gradle\caches\transforms-3\9c63ef736177482108cbd41715fe1efe\transformed\navigation-common-2.7.7\res
+com.clean.mvvm.app-ui-test-release-45 C:\Users\PR20406131\.gradle\caches\transforms-3\9cb3356c97c4a0d551420731da01cf2e\transformed\ui-test-release\res
+com.clean.mvvm.app-foundation-release-46 C:\Users\PR20406131\.gradle\caches\transforms-3\9fdd65e118ff3fe1eb268e9bd75e88d0\transformed\foundation-release\res
+com.clean.mvvm.app-activity-1.8.2-47 C:\Users\PR20406131\.gradle\caches\transforms-3\a12d63bd95d55428d41424ebe88dcfe9\transformed\activity-1.8.2\res
+com.clean.mvvm.app-viewpager2-1.0.0-48 C:\Users\PR20406131\.gradle\caches\transforms-3\a41f76c06ce70c70bdf9ad1891872e7a\transformed\viewpager2-1.0.0\res
+com.clean.mvvm.app-lifecycle-viewmodel-2.7.0-49 C:\Users\PR20406131\.gradle\caches\transforms-3\a999908c4cfc5f64c7d85502638c26dc\transformed\lifecycle-viewmodel-2.7.0\res
+com.clean.mvvm.app-lifecycle-viewmodel-savedstate-2.7.0-50 C:\Users\PR20406131\.gradle\caches\transforms-3\ae39025fcd80779d76ec9fa1a769ac9f\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.clean.mvvm.app-ui-tooling-data-release-51 C:\Users\PR20406131\.gradle\caches\transforms-3\b42383041df1f5a376dda2ca30a8105e\transformed\ui-tooling-data-release\res
+com.clean.mvvm.app-animation-release-52 C:\Users\PR20406131\.gradle\caches\transforms-3\b4627a02fe0a40034c9be5f3dd346d38\transformed\animation-release\res
+com.clean.mvvm.app-foundation-layout-release-53 C:\Users\PR20406131\.gradle\caches\transforms-3\c060254f49249af4a8628444cf497cd0\transformed\foundation-layout-release\res
+com.clean.mvvm.app-ui-test-junit4-release-54 C:\Users\PR20406131\.gradle\caches\transforms-3\c0dfcfcca329c622b8a8776f092be0ee\transformed\ui-test-junit4-release\res
+com.clean.mvvm.app-fragment-1.5.1-55 C:\Users\PR20406131\.gradle\caches\transforms-3\c46c4f3da35913d91af23fd514503001\transformed\fragment-1.5.1\res
+com.clean.mvvm.app-lifecycle-process-2.7.0-56 C:\Users\PR20406131\.gradle\caches\transforms-3\cf5601627d3c8337c5f7dbc4ef217987\transformed\lifecycle-process-2.7.0\res
+com.clean.mvvm.app-recyclerview-1.1.0-57 C:\Users\PR20406131\.gradle\caches\transforms-3\d20e1ea787524b67c498d5e79d240829\transformed\recyclerview-1.1.0\res
+com.clean.mvvm.app-room-ktx-2.6.1-58 C:\Users\PR20406131\.gradle\caches\transforms-3\d38aa1e5c7cb97741a7bf87408811cd3\transformed\room-ktx-2.6.1\res
+com.clean.mvvm.app-navigation-runtime-ktx-2.7.7-59 C:\Users\PR20406131\.gradle\caches\transforms-3\d5d96ce0ecb5bd5a6eb09a57eae5d88d\transformed\navigation-runtime-ktx-2.7.7\res
+com.clean.mvvm.app-ui-graphics-release-60 C:\Users\PR20406131\.gradle\caches\transforms-3\d79c63f54d0d81b798a34980f35f7406\transformed\ui-graphics-release\res
+com.clean.mvvm.app-navigation-compose-2.7.7-61 C:\Users\PR20406131\.gradle\caches\transforms-3\d8bcf2a1b8a55d5884dbc7cbb59b8c27\transformed\navigation-compose-2.7.7\res
+com.clean.mvvm.app-transition-1.2.0-62 C:\Users\PR20406131\.gradle\caches\transforms-3\e710be2c1c7d5603908237edf75987e2\transformed\transition-1.2.0\res
+com.clean.mvvm.app-ui-tooling-release-63 C:\Users\PR20406131\.gradle\caches\transforms-3\e9c1c658d53e116858458896fbb25f82\transformed\ui-tooling-release\res
+com.clean.mvvm.app-material-icons-core-release-64 C:\Users\PR20406131\.gradle\caches\transforms-3\ef685f9789a48dc2be116b3056c8dda8\transformed\material-icons-core-release\res
+com.clean.mvvm.app-savedstate-1.2.1-65 C:\Users\PR20406131\.gradle\caches\transforms-3\f1257ce5ea594e9e378b6ffd48f72caf\transformed\savedstate-1.2.1\res
+com.clean.mvvm.app-material-release-66 C:\Users\PR20406131\.gradle\caches\transforms-3\f1622651532d70085420721f79b9e2ee\transformed\material-release\res
+com.clean.mvvm.app-lifecycle-runtime-ktx-2.7.0-67 C:\Users\PR20406131\.gradle\caches\transforms-3\f50c68b376e665f13f4f75aeb74c2156\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.clean.mvvm.app-ui-geometry-release-68 C:\Users\PR20406131\.gradle\caches\transforms-3\f55ea5de4173061c952694b54a557e73\transformed\ui-geometry-release\res
+com.clean.mvvm.app-lifecycle-runtime-2.7.0-69 C:\Users\PR20406131\.gradle\caches\transforms-3\faf28c56c1240d0317458ff050d856a6\transformed\lifecycle-runtime-2.7.0\res
+com.clean.mvvm.app-resValues-70 C:\Users\PR20406131\Music\rain 3.0.1\MVVM-Clean_Architect-Example-with-hilt\app\build\generated\res\resValues\debug
+com.clean.mvvm.app-packageDebugResources-71 C:\Users\PR20406131\Music\rain 3.0.1\MVVM-Clean_Architect-Example-with-hilt\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.clean.mvvm.app-packageDebugResources-72 C:\Users\PR20406131\Music\rain 3.0.1\MVVM-Clean_Architect-Example-with-hilt\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.clean.mvvm.app-merged_res-73 C:\Users\PR20406131\Music\rain 3.0.1\MVVM-Clean_Architect-Example-with-hilt\app\build\intermediates\merged_res\debug
+com.clean.mvvm.app-debug-74 C:\Users\PR20406131\Music\rain 3.0.1\MVVM-Clean_Architect-Example-with-hilt\app\src\debug\res
+com.clean.mvvm.app-main-75 C:\Users\PR20406131\Music\rain 3.0.1\MVVM-Clean_Architect-Example-with-hilt\app\src\main\res
