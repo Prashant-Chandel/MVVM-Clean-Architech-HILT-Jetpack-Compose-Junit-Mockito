@@ -1,16 +1,16 @@
 <br />
   <a href="https://github.com/othneildrew/Best-README-Template">
-  <h2 align="start">Kotlin MVVM-Clean Architect-JetPack Compose-Example-with- DI-Koin, Coroutines, Retrofit, Room, Solid Principles, DRY Principle, OOPs</h2>
+  <h2 align="start">Kotlin MVVM-Clean Architect-JetPack Compose-Example-with- DI-HILT, Coroutines, Retrofit, Room, Solid Principles, DRY(Don't repeat yourself) Principle, OOPs</h2>
 
 [![License](https://badgen.net/badge/License/Apache/blue/)](https://opensource.org/licenses/Apache-2.0)
 ![MinAPI](https://badgen.net/badge/MinAPI/24/silver/)
-[![Compose](https://img.shields.io/badge/compose-1.5.4-green.svg?)](https://developer.android.com/jetpack/compose)
-[![Koin](https://img.shields.io/badge/Koin-3.4.3-blue.svg?logo=koin)](https://insert-koin.io/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.10-yellow.svg?logo=kotlin)](http://kotlinlang.org)
-[![Room DB](https://img.shields.io/badge/Room-2.6.0-sky.svg?logo=room)](https://developer.android.com/training/data-storage/room)
-[![Mokito](https://img.shields.io/badge/mokito-2.2.0-red.svg?)](https://lv.binarybabel.org/catalog/gradle/latest)
-[![Junit](https://img.shields.io/badge/junit-4.13.2-pink.svg?)](https://lv.binarybabel.org/catalog/gradle/latest)
-[![Gradle](https://img.shields.io/badge/gradle-8.2.0-gold.svg?)](https://lv.binarybabel.org/catalog/gradle/latest)
+[![Compose](https://img.shields.io/badge/compose-1.5.4-green.svg?logo=JetpackCompose)](https://developer.android.com/jetpack/compose)
+[![HILT](https://img.shields.io/badge/HILT-2.48.1-blue.svg?logo=hilt)](https://developer.android.com/training/dependency-injection/hilt-android)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.22-yellow.svg?logo=kotlin)](http://kotlinlang.org)
+[![Room DB](https://img.shields.io/badge/Room-2.6.1-sky.svg?logo=room)](https://developer.android.com/training/data-storage/room)
+[![Mokito](https://img.shields.io/badge/mokito-2.13.0-red.svg??logo=mockito)](https://site.mockito.org/)
+[![Junit](https://img.shields.io/badge/junit-4.13.2-pink.svg??logo=junit4)](https://developer.android.com/training/testing/instrumented-tests/androidx-test-libraries/rules)
+[![Gradle](https://img.shields.io/badge/gradle-8.2.2-gold.svg??logo=gradle)](https://lv.binarybabel.org/catalog/gradle/latest)
 
 <p align="start">
 <img src="info/1.png" width="25%"/>
@@ -120,7 +120,7 @@ which making it easier to develop and test.
 
 * Architecture;
   *    [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
-  *    [Koin](https://insert-koin.io/docs/quickstart/android/)
+  *    [HILT](https://developer.android.com/training/dependency-injection/hilt-android)
   *    [Navigation](https://developer.android.com/guide/navigation)
 
 ## Tech Stacks
@@ -147,11 +147,13 @@ which making it easier to develop and test.
       loading library for Android focused on smooth scrolling (Google).
 
 - Dependency Injection (DI)
-    - [Koin](https://insert-koin.io/docs/quickstart/android/) -Koin provides a easy and efficient
-      way to incorporate dependency injection into any Kotlin application.In this project i am using
-      Koin but you can
-      use [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) and
-      Dragger for the same.
+    - [HILT](https://developer.android.com/training/dependency-injection/hilt-android)is used for Dependency Injection as a wrapper on top of [Dagger](https://github.com/google/dagger). 
+
+      Most of the dependencies are injected with `@Singleton` scope and are provided within the `FoodMenuApiProvider` module.
+
+      For ViewModels, we use the out-of-the-box `@HiltViewModel` annotation that injects them with the scope of the navigation graph composables that represent the screens.
+      -You can also use [Koin](https://insert-koin.io/docs/quickstart/android/) -Koin provides a easy and efficient
+      way to incorporate dependency injection into any Kotlin application.
 
 - [Jetpack](https://developer.android.com/jetpack)
     - [AndroidX](https://developer.android.com/jetpack/androidx) - Major improvement to the original
@@ -170,10 +172,10 @@ which making it easier to develop and test.
       content within your app.
 
 - Others
-  -    [Retrofit](https://square.github.io/retrofit/)  for networking
-  -    [OkHttp-Logging-Interceptor](https://github.com/square/okhttp/blob/master/okhttp-logging-interceptor/README.md)  -
+  - [Retrofit](https://square.github.io/retrofit/)  for networking
+  - [OkHttp-Logging-Interceptor](https://github.com/square/okhttp/blob/master/okhttp-logging-interceptor/README.md)  -
   Logs HTTP request and response data.
-  -    [Flow](https://developer.android.com/kotlin/flow) - Flows are built on top of coroutines and
+  - [Flow](https://developer.android.com/kotlin/flow) - Flows are built on top of coroutines and
   can provide multiple values.
   - [Material Design](https://material.io/develop/android/docs/getting-started/) - Build awesome
   beautiful UIs.
@@ -181,7 +183,8 @@ which making it easier to develop and test.
   coroutines,provides runBlocking coroutine builder used in tests.
   - [Gson](https://github.com/google/gson) - A modern JSON library for Kotlin and Java.
   *
-  Functions([Scope](https://kotlinlang.org/docs/scope-functions.html) ,[Inline](https://kotlinlang.org/docs/inline-functions.html)
+  Functions([Scope](https://kotlinlang.org/docs/scope-functions.html) ,
+  [Inline](https://kotlinlang.org/docs/inline-functions.html)
   and [infix](https://www.geeksforgeeks.org/kotlin-infix-function-notation/) Functions)
 
 # Features
@@ -301,7 +304,7 @@ are tested independently.
 ### Commits Includes
 
 > [!IMPORTANT]   
-> [Commit c2510e7b6b3b29c432974c0ee85ce1b80e587a3b](https://github.com/Prashant-Chandel/MVVM-Clean_Architect-Example-with-koin/commit/c2510e7b6b3b29c432974c0ee85ce1b80e587a3b)
+> [Commit c2aad6a8c8c63b292fda44dd9f09482efb1df266](https://github.com/Prashant-Chandel/MVVM-Clean-Architech-HILT-Jetpack-Compose-Junit-Mockito/commit/c2aad6a8c8c63b292fda44dd9f09482efb1df266)
 
 This commit introduces the following major changes:
 
@@ -332,83 +335,11 @@ the codebase is structured with a focus on Single Responsibility, Open-Closed, L
 Interface Segregation, and Dependency Inversion principles. Additionally, Kotlin-specific components
 and functions are leveraged for efficient and expressive code.
 
-> [!IMPORTANT]   
-> [Commit f4952563f5cb885edbcd72d9b43f79f7cc883b1e](https://github.com/Prashant-Chandel/MVVM-Clean_Architect-Example-with-koin/commit/f4952563f5cb885edbcd72d9b43f79f7cc883b1e)
-
-This commit introduces the following major changes:
-
-**Enhanced Flow Handling:** Improvements in flow handling make the application more responsive and
-efficient in handling asynchronous data changes in the data layer.
-
-**changes Koin UseCase module**  Koin Use Case Module Update
-
-In the project's evolution, there have been changes to the declaration of the Koin use case module.
-These changes enhance the way use cases are injected into the application, providing more
-flexibility and modularity.
-
-Updated Koin Module Declaration
-
-Previously, the Koin use case module might have been declared as follows:
-
-```
-"single" definition, create an object that is persistent with the entire container lifetime (can't be dropped).
- single { GetCatsUseCase(get()) }
-```
-
-To ensure compliance with these conditions:
-
-```
- long live components (Services, Data Repository ...) - used by several screens, never dropped
- medium live components (user sessions ...) - used by several screens, must be dropped after an amount of time
- short live components (views) - used by only one screen & must be dropped at the end of the screen
-```
-
-Now, with the recent changes, the Koin module for use cases is declared in a more scallable manner:
-
- ```
-"factory definition", create a new object each time. Short live. No persistence in the container (can't be shared).
- factory<GetCatsUseCase> { GetCatsUseCaseImpl(get()) }
-``` 
-
-While these aspects play a crucial role in scaling an application, there's an opportunity to further
-enhance scalability by explicitly defining the scope of the module. This can be achieved through the
-use of scoped definitions, where an object is created with persistence tied to the associated
-scope's lifetime. This approach ensures a more granular and controlled management of dependencies,
-contributing to the overall scalability and maintainability of the application.
-
-```
-scope<A> { } is equivalent to scope(named<A>()){ } , but more convenient to write.You can also use a string qualifier like: scope(named("SCOPE_NAME")) { }
-1. using string name of scope
-scope(named("myScope")) {
-        // Define dependencies specific to this scope
-        scoped<CatUseCase> { CatUseCaseImpl(get()) }
-        
-        // Define ViewModel for the scope
-        viewModel { CatViewModel(get()) }
-    }
-2. Anonymous
-scope {
-        // Define dependencies specific to this anonymous scope
-        scoped<CatUseCase> { CatUseCaseImpl(get()) }
-        
-        // Define ViewModel for the anonymous scope
-        viewModel { CatViewModel(get()) }
-    }
-```
-
-To integrate it into the ViewModel, ensure that your ViewModel implements the KoinComponent. This
-allows the ViewModel to leverage Koin's dependency injection features seamlessly.
-
-**SOLID Principles and Kotlin Components:** The code adheres to the SOLID principles, ensuring that
-the code base is structured with a focus on Single Responsibility, Open-Closed, Liskov Substitution,
-Interface Segregation, and Dependency Inversion principles. Additionally, Kotlin-specific components
-and functions are leveraged for efficient and expressive code.
-
 **Thank you**😎
 
 # Licensed
 
-Designed and developed by [Prashant Chandel](Chandela.prashant14@gmail.com)
+Designed and developed by [Prashant Chandel](https://www.linkedin.com/in/prashant-chandel-2860a5128)
 
 Licensed under
 the [Apache License](https://github.com/Prashant-Chandel/MVVM-Clean_Architect-Example-with-koin/blob/Developer/LICENSE),
